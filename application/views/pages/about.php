@@ -1,0 +1,197 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>TENTANG SKYPEA</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<script src="<?php echo base_url(); ?>assets/js/skel.min.js"></script>
+		<script src="<?php echo base_url(); ?>assets/js/skel-panels.min.js"></script>
+		<script src="<?php echo base_url(); ?>assets/js/init.js"></script>
+
+		<link rel="stylesheet" href="<?php echo base_url('assets/css/skel-noscript.css'); ?>">
+		<link rel="stylesheet" href="<?php echo base_url('assets/css/style1.css'); ?>">
+		<link rel="stylesheet" href="<?php echo base_url('assets/css/style-desktop.css'); ?>" />
+		
+	</head>
+	<body>
+		<div id="header">
+			<div>
+				<div id="logo">
+					<h1><img src="http://localhost/ciblog/assets6/images/logo2.png"></h1>
+				</div>
+				<nav id="nav">
+					<ul>
+						<li class="active"><a href="#labels">Sejarah</a></li>
+						<li><a href="#label">Instansi</a></li>
+						<li><a href="#label1">Lambang Daerah</a></li>
+						<li><a href="#label2">Visi & Misi</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+		<span id="labels">
+		<div id="main">
+			<div class="container">
+				<div class="row"> 
+					<div id="content" class="8u skel-cell-important">
+						<section>
+							<header>
+								<h2>Sejarah Skypea</h2>
+								<span class="byline">Disini Kalian Bisa Lebih Mengenal Daerah Skypea</span>
+							</header>
+							<a href="#" class="image full"><img src="http://localhost/ciblog/assets6/images/tentang.png" alt="" /></a>
+							<p>Tentang <strong>Daerah Skypea</strong>, Terletak diantara Daerah Konoha dan Amegakure yaitu berada di pulau <a href="http://templated.co">KASIHMANTAN</a>.  Skypea memiliki luas 156,3 kilometer persegi dengan puncak tertinggi 617 meter di atas permukaan air laut. Saat ini Skypea menjelma menjadi destinasi wisata teknologi Indonesia yang menawarkan surga bagi para programmer dan gamer. Di sini kita dapat menikmati PC dengan spesifikasi yang sudah terbilang hightech. Akan tetapi, bukan wisata teknologi saja dapat ditemukan di Skypea. Ada gunung, danau, pantai, laut, serta hutannya yang masih alami dan terjaga menunggu dikunjungi. Belum lagi interaksi Anda dengan masyarakat setempat akan memberikan pengalaman yang berkesan. &ndash; Skypea merupakan kota kecil yang indah dengan struktur tanah berbukit-bukit sehingga warga setempat menyebut kota Skypea dengan dua nama yaitu kota bawah dan kota atas.
+							<p>Kata "skypea" berasal dari bahasa Manga yaitu "sky" dan "pea" yang berarti pulau langit. Hal ini dikarenakan penemu daerah tersebut adalah penggemar salah satu manga terkenal di jepang yaitu <a href="http://onepiece.com">"Onepiece"</a>, jadi Skypea adalah salah satu pulau yang ada pada manga tersebut, karena keindahan dan kekayaan alamnya yang sama-sama sangat melimpah.</p>
+						</section>
+					</div>
+					
+				
+					</span>
+					<!-- Sidebar -->
+					<div id="sidebar" class="4u">
+						<section>
+							<header>
+								<h2>Berita Terkini Daerah Skypea</h2>
+							</header>
+							<ul class="style">
+								<li>
+									<p class="posted">Oktober 20, 2018  |  (10 )  Comments</p>
+									<img src="http://localhost/ciblog/assets6/images/fotohamzah.png" alt="" />
+									<p class="text">Presiden Hamzah Assyarif Meresmikan Portal Resmi Pemerintahan Daerah Skypea.</p>
+									<a href="http://localhost/ciblog/posts/PERESMIAN-PORTAL-RESMI-DAERAH-SKYPEA">Cek Selengkapnya</a>
+								</li>
+								<li>
+									<p class="posted">Oktober 01, 2018  |  (10 )  Comments</p>
+									<img src="http://localhost/ciblog/assets6/images/pic05.png" alt="" />
+									<p class="text">Ajudan Presiden yang baru sudah mulai bekerja semenjak dilantik oleh sekjen Aan Sanopa September lalu.</p>
+									<a href="http://localhost/ciblog/posts/AJUDAN-BARU-PRESIDEN-SKYPEA">Cek Selengkapnya</a>
+								</li>
+								<li>
+									<p class="posted">September 10, 2018  |  (10 )  Comments</p>
+									<img src="http://localhost/ciblog/assets6/images/pic06.png" alt="" />
+									<p class="text">Konser Amal yang diadakan oleh pemerintah daerah Skypea berhasil menarik banyak penyumbang dana.</p>
+									<a href="http://localhost/ciblog/posts/KONSER-AMAL-SKYPEA">Cek Selengkapnya</a>
+								</li>
+							</ul>
+						</section>
+					</div>
+				</div>
+			</div>
+		</div>
+
+<!-- Footer -->
+		<span id="label1">
+		<div id="featured">
+			<div class="container">
+				<div class="row">
+					<div class="4u">
+						<h2>Filosofi Lambang Daerah</h2>
+						<a href="#" class="image full"><img src="http://localhost/ciblog/assets6/images/pic01.png" alt="" /></a>
+						<p class="ab">Angka 4, Melambangkan bahwa yang membangun dan menemukan daerah ini adalah
+						kelompok 4 yang beranggotakan sejumlah 7 orang mahasiswa yang sedang mengerjakan
+						tugas besarnya.</p>
+						<p><a href="http://localhost/ciblog/assets6/images/pic01.png" class="button">Lihat Gambar</a></p>
+					</div>
+					<div class="4u">
+						<h2></h2><br>
+						<a href="#" class="image full"><img src="http://localhost/ciblog/assets6/images/pic02.png" alt="" /></a>
+						<p class="ab">Lingkaran Berwarna Biru, Melambangkan bahwa kita bekerja bersama satu tim dengan
+						saling melingkar dan berelasi satu sama lain serta saling berhubungan dengan
+						nuansa cerah biru.</p>
+						<p><a href="http://localhost/ciblog/assets6/images/pic02.png" class="button">Lihat Gambar</a></p>
+					</div>
+					<div class="4u">
+						<h2></h2><br>
+						<a href="#" class="image full"><img src="http://localhost/ciblog/assets6/images/pic03.png" alt="" /></a>
+						<p class="ab">Background Dasar Putih, Melambangkan bahwa daerah buatan ini mempunyai sistem kepemerintahan yang jujur dan adil, sehingga masyarakat yang hidup didalamnya bisa hidup makmur.</p>
+						<p><a href="http://localhost/ciblog/assets6/images/pic03.png" class="button">Lihat Gambar</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		</span>
+
+		<span id="label2">
+		<div id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="4u">
+						<section>
+							<h2>Visi & Misi Pemerintahan Daerah Skypea</h2>
+							<ul class="default">
+								<li><a href="#">Visi</a></li>
+								<li><a href="#">Terwujudnya Peningkatan Kemakmuran Masyarakat Skypea</a></li>
+							</ul>
+						</section>
+					</div>
+					<div class="4u">
+						<section>
+							<h2></h2><br><br>
+							<ul class="default">
+								<li><a href="#">Misi</a></li>
+								<li><a href="#">1.Terwujudnya tata dan perilaku penyelenggaraan pemerintahan yang demokratis</a></li>
+								<li><a href="#">2.Terwujudnya peningkatan kualitas hidup - kehidupan - penghidupan masyarakat yang berkeadilan dan berkeadaban</a></li>
+								<li><a href="#">3.Terwujudnya peningkatan kualitas dan keragaman kegiatan perekonomi masyarakat, serta penguatan ekonomi</a></li>
+							</ul>
+						</section>
+					</div>
+				</div>
+			</div>
+		</div>
+		</span>
+<br><br><br>
+		
+		<!-- Footer -->
+		<div id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="4u">
+						<section>
+							<h2>Instansi Daerah Skypea</h2>
+							<ul class="default">
+								<li><a href="#">Sekretariat Daerah</a></li>
+								<li><a href="#">Biro Tata Pemerintahan</a></li>
+								<li><a href="#">Biro Hukum</a></li>
+								<li><a href="#">Biro Administrasi Kesejahteraan</a></li>
+								<li><a href="#">Biro Administrasi Perekonomian</a></li>
+							</ul>
+						</section>
+					</div>
+					<div class="4u">
+						<section>
+							<h2></h2><br>
+							<ul class="default">
+								<li><a href="#">Biro Organisasi</a></li>
+								<li><a href="#">Biro Umum dan Protokol</a></li>
+								<li><a href="#">Asisten Keistimewaan</a></li>
+								<li><a href="#">Dinas Kesehatan</a></li>
+								<li><a href="#">Dinas Sosial</a></li>
+							</ul>
+						</section>
+					</div>
+					<div class="4u">
+						<section>
+							<h2></h2><br>
+							<ul class="default">
+								<span id="label">
+								<li><a href="#">Dinas Perhubungan</a></li>
+								<li><a href="#">Dinas Transmigrasi</a></li>
+								<li><a href="#">Dinas Komunikasi & Informatika</a></li>
+								<li><a href="#">Badan Lingkungan Hidup</a></li>
+								<li><a href="#">Kantor Perwakilan Daerah</a></li>
+								</span>
+							</ul>
+						</section>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		<!-- Copyright -->
+		<div id="copyright">
+		</div>
+		
+	</body>
+</html>
